@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Temperature_Convertor</string>
+    <string name="heading">TEMPERATURE CONVERTER</string>
+    <string name="buttonText">CONVERT</string>
+    <string name="degree_c">°C</string>
+</resources>
